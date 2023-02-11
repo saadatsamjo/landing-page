@@ -1,0 +1,1 @@
+this is landing page created as an exercise from the odin project foundation course!
